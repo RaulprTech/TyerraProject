@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{gCcv:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),u=t.n(a);e.default=function(){return u.a.createElement("div",null,u.a.createElement("h1",null,"Thank you!"),u.a.createElement("p",null,"This is a custom thank you page for form submissions"))}}}]);
+//# sourceMappingURL=component---src-pages-thanks-js-ffecdef5aeb523bf43ef.js.map

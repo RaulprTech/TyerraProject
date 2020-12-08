@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/thanks.js"],"names":[],"mappings":"2FAAA,gCAEe,4BACb,6BACE,0CACA","file":"component---src-pages-thanks-js-ffecdef5aeb523bf43ef.js","sourcesContent":["import React from 'react'\n\nexport default () => (\n  <div>\n    <h1>Thank you!</h1>\n    <p>This is a custom thank you page for form submissions</p>\n  </div>\n)"],"sourceRoot":""}
