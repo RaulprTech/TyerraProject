@@ -1,14 +1,14 @@
 import React from "react"
 
-import Header from "../components/Header"
-import Mensaje from "../components/Caracteristica"
+import Header from "../components/Landing/Header"
+import Mensaje from "../components/Landing/Caracteristica"
 import search from "../imgs/house_searching.svg"
 import select from "../imgs/select_house.svg"
 import buy from "../imgs/buy_house.svg"
 
-import Advantage from "../components/Advantage"
+import Advantage from "../components/Landing/Advantage"
 import Nav from "../components/Nav"
-import Banner from "../components/Banner"
+import Banner from "../components/Landing/Banner"
 import Property from "../components/Property"
 
 export default function Home() {
